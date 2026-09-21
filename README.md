@@ -1,1 +1,2 @@
-# coding-project-template
+# Paradise Nursery Shopping Application
+A shopping cart application for an online plant shop which offers a variety of house plants.
